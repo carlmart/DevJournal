@@ -6,9 +6,14 @@ categories: jekyll init
 ---
 This is the way of the future. A method to create web pages minus all the gunk that conventional
 CMS offers. The single static web page view. Dynamic and fast:
-~Desktop/programmming/cpp/c++11/. We start with the Standard STL library
+~Desktop/programmming/cpp/c++11/. 
+
+We start with the Standard STL library and template class
 
 {% highlight c++ %}
+#include <iostream>
+using namespace std;
+
 template <class T>
 void output (const T & n)
 {
