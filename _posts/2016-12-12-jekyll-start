@@ -1,14 +1,22 @@
 ---
 layout: post
-title:  "Finally have DevJournal up and running"
+title:  "Finally , DevJournal is up and running"
 date:   2016-12-12 22:01:43 +0530
 categories: jekyll init
+permalink: /_posts/
 ---
+
 This is the way of the future. A method to create web pages minus all the gunk that conventional
 CMS offers. The single static web page view. Dynamic and fast:
-~Desktop/programmming/cpp/c++11/. 
 
-We start with the Standard STL library and template class
+I plan on going through the STD library writing short programs with the most used 
+methods .
+
+My original plan was to create a ~Desktop/programmming/cpp/c++11/ directory 
+and start with folders describing what we plan on learning. 
+
+We will start describing the template class due to the fact that it's such
+a fundamental core component with multiple uses.
 
 {% highlight c++ %}
 #include <iostream>
@@ -28,6 +36,8 @@ int main() {
 }
 
 {% endhighlight %}
+
+
 
 Notice the multiple ways you can output using the template class.
 
