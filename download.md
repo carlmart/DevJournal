@@ -13,7 +13,7 @@ permalink: /download/
     <br />
   </p>
   <div class="download">
-    <center><i class="fa fa-heart"></i> Star it if you loved!</center>
+    <center><i class="fa fa-heart"></i> Stats!</center>
     <br />
     <center>
       <iframe src="https://github.com/carlmart" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
