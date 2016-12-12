@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Finally have DevJournal up and running"
+date:   2016-12-12 22:01:43 +0530
+categories: jekyll init
+---
+This is the way of the future. A method to create web pages minus all the gunk that conventional
+CMS offers. The single static web page view. Dynamic and fast:
+~Desktop/programmming/cpp/c++11/. We start with the Standard STL library
+
+{% highlight c++ %}
+template <class T>
+void output (const T & n)
+{
+  cout << n << endl;
+}
+
+int main() {
+   output(10);
+   output(3.14);
+   output("hello world");
+   return 0;
+}
+
+{% endhighlight %}
+
+Notice the multiple ways you can output using the template class.
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
